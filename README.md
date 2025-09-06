@@ -11,7 +11,7 @@
    git clone https://github.com/wildmlll/fruit-app
    cd fruit-app
 
-##Setup 
+## Setup 
 1. Install modules
    ```bash
    npm install
